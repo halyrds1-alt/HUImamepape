@@ -16,7 +16,7 @@ from datetime import datetime
 from threading import Thread
 
 # ========== КОНФИГ ==========
-BOT_TOKEN = "7952682674:AAEUT_JiTPtEiPDy9Slfvm0NZOKsBwEQNd4"
+BOT_TOKEN = "8648067466:AAGAFikXJFUH3nlLMYd-O5B04BWSHBAI2kI"
 ADMIN_IDS = [7811061945, 8679197041, 6747528307]
 OWNER_USERNAME = "@runet3"
 
